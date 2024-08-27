@@ -1,4 +1,4 @@
-# OCI-Chatbot-with-RAG
+# OCI Chatbot with RAG
 For OCI Generative AI Professional Certification
 
 ## Requisitos:
